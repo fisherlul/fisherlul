@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Huy Hung Nguyen</h1>
-<h3>Student at INSA Lyon</h3>
+<h3>Student at INSA Lyon <img src="https://pbs.twimg.com/profile_images/795909150840619008/CLzz3UaU_400x400.jpg" alt="insa-lyon" width="30" height="30"/> </h3>
 
 - 🔭 I’m currently working on **Sleep Health Analysis**
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fisherlul/fisherlul.github.io](https://github.com/fisherlul/fisherlul.github.io)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/fisherlul/Projects)
 
 - 📫 How to reach me **hungnguyenamser@gmail.com** or **huy-hung.nguyen@insa-lyon.fr**
 
