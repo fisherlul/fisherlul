@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Huy Hung Nguyen</h1>
-<h3>Student at INSA Lyon <img src="https://pbs.twimg.com/profile_images/795909150840619008/CLzz3UaU_400x400.jpg" alt="insa-lyon" width="30" height="30"/> </h3>
+<h3>Student at INSA Lyon</h3>
 
 - 🔭 I’m currently working on **Sleep Health Analysis**
 
