@@ -2,7 +2,7 @@
 <h3>Second year Student at INSA Lyon</h3>
 <h3>Étudiant de deuxième année - FIMI ASINSA - INSA Lyon</h3>
 
-- 🔭 I’m currently working on **Sleep Health Analysis**
+- 🔭 I’m currently working on **App Project**
 
 - 🌱 I’m currently learning **Python**
 
