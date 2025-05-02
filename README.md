@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fisherlul&show_icons=true&theme=transparent&bg_color=00000000" alt="fisherlul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisherlul&show_icons=true&theme=transparent&bg_color=00000000&layout=donut" alt="fisherlul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fisherlul&theme=transparent&bg_color=00000000" alt="fisherlul" /></p>
