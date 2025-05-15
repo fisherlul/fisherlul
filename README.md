@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **App Project**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m working on my new project - **Lots O Stuff** mod!
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/fisherlul/Projects)
 
