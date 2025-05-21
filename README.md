@@ -2,7 +2,7 @@
 <h3>Second year Student at INSA Lyon</h3>
 <h3>Étudiant de deuxième année - FIMI ASINSA - INSA Lyon</h3>
 
-- 🌱 I’m working on my new project - **Lots O Stuff** mod, a Balatro mod!
+- 🌱 I’m working on my new project - **Lots O Stuff**, a Balatro mod!
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/fisherlul/Projects)
 
