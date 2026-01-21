@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Huy Hung Nguyen</h1>
-<h3>Second year Student at INSA Lyon</h3>
-<h3>Étudiant de deuxième année - FIMI ASINSA - INSA Lyon</h3>
+<h3>Third year Student at INSA Lyon</h3>
+<h3>Étudiant de troisième année - Département Télécommunications, Service et Usage - INSA Lyon</h3>
 
 - 🌱 I’m working on my new project - **Lots O Stuff**, a Balatro mod!
 
